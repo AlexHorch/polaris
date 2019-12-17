@@ -1,0 +1,18 @@
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.exe
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.deps.json
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.runtimeconfig.json
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.runtimeconfig.dev.json
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.dll
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\bin\Debug\netcoreapp3.0\Polaris Charactergenerator.pdb
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator_MarkupCompile.cache
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator_MarkupCompile.lref
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.g.resources
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.AssemblyInfoInputs.cache
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.AssemblyInfo.cs
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.dll
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.pdb
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\ffuenfgelder\source\repos\Polaris Charactergenerator\obj\Debug\netcoreapp3.0\Polaris Charactergenerator.csprojAssemblyReference.cache
